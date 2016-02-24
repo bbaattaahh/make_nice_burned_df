@@ -16,3 +16,8 @@
 hello <- function() {
   print("Hello, world!")
 }
+
+
+pick_up_text <- function() {
+    print("Hello, cica van gazdád???")
+}
