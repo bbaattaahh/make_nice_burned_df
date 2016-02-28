@@ -13,6 +13,12 @@
 #   Check Package:             'Ctrl + Shift + E'
 #   Test Package:              'Ctrl + Shift + T'
 
+#' Some thing
+#'
+#' Take id
+#' @param Nincs
+#' @return Lovely message
+#' @export
 hello <- function() {
   print("Hello, world!")
 }
