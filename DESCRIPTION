@@ -1,9 +1,11 @@
 Package: MakeNiceBurnedDF
-Title: What the Package Does Henrik
+Title: Make nice data frame which can be burned to the code. It is useful when you have to write unittests. 
 Description: Jo lenne ha menne
 Version: 0.1.0
 Author: Henrik Bata
-Maintainer: Who to complain to <yourfault@somewhere.net>
-License: What license is it under?
+Maintainer: Henrik Bata <bbaattaahh@gmail.com>
+License: No.
 LazyData: TRUE
+Imports:
+    testthat
 RoxygenNote: 5.0.1

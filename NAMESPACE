@@ -2,3 +2,4 @@
 
 export(davidka)
 export(hello)
+export(make_burned_df)
